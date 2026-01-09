@@ -10,7 +10,7 @@ status-website:
   cname: status.emailcheatcode.com
   name: Email Cheat Code Status
   logoUrl: https://emailcheatcode.com/email_cheat_code_full.svg
-  favicon: https://emailcheatcode.com/favicon.ico
+  favicon: /favicon.png
   introTitle: "**Email Cheat Code** uptime monitor"
   introMessage: Current status and uptime history for Email Cheat Code
   navbar:
