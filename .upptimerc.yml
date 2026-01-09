@@ -4,14 +4,10 @@ repo: upptime-email-cheat-code
 
 sites:
   - name: Email Cheat Code
-    url: url: https://emailcheatcode.com 
-
+    url: https://emailcheatcode.com
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.emailcheatcode.com
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Email Cheat Code Status
   introTitle: "**Email Cheat Code** uptime monitor"
   introMessage: Current status and uptime history for Email Cheat Code
