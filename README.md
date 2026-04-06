@@ -1,8 +1,8 @@
 # [📈 Live Status](https://status.emailcheatcode.com): <!--live status--> **🟩 All systems operational**
 
-This repository contains the open-source uptime monitor and status page for [Email Cheat Code, operated by Cuff Technology Solutions, LLC](https://status.emailcheatcode.com), powered by [Upptime](https://github.com/upptime/upptime).
+This repository contains the open-source uptime monitor and status page for [Email Cheat Code](https://emailcheatcode.com), powered by [Upptime](https://github.com/upptime/upptime).
 
-Email Cheat Code is an email monitoring and SMS alert service for Gmail and Microsoft 365, built for students, families, and anyone who needs to catch time-critical emails. This repository provides transparent, automated uptime monitoring for emailcheatcode.com. For security and compliance information, including our CASA Tier 2 certification (ID: 7155f26d, issued by TAC Security / App Defense Alliance), see our [Security and Trust page](https://watchmyinbox.com/security).
+Email Cheat Code is an email monitoring and SMS alert service for Gmail and Microsoft 365, built for students, families, and anyone who needs to catch time-critical emails. This repository provides transparent, automated uptime monitoring for emailcheatcode.com. For security and compliance information, including our CASA Tier 2 certification (ID: 7155f26d, issued by TAC Security / App Defense Alliance), see our [Security and Trust page](https://watchmyinbox.com).
 
 [![Uptime CI](https://github.com/jimc66/upptime-email-cheat-code/workflows/Uptime%20CI/badge.svg)](https://github.com/jimc66/upptime-email-cheat-code/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/jimc66/upptime-email-cheat-code/workflows/Response%20Time%20CI/badge.svg)](https://github.com/jimc66/upptime-email-cheat-code/actions?query=workflow%3A%22Response+Time+CI%22)
